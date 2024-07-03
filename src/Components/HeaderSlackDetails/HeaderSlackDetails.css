@@ -1,0 +1,13 @@
+.slack_detail {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 40px;
+}
+.personal_detail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.slackmail {
+    margin-top: -10px;
+}
